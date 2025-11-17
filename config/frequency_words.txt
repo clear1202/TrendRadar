@@ -9,3 +9,8 @@ tiktok
 AI
 算力
 人工智能
+微软
+AWS
+meta
+google
+英伟达
